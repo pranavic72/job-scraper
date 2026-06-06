@@ -90,6 +90,16 @@ SEARCH_QUERIES = [
 ]
 ```
 
+Change the location:
+
+```python
+LOCATION = "Germany"           # entire country
+LOCATION = "Berlin, Germany"   # specific city
+LOCATION = "Munich, Germany"
+LOCATION = "Hamburg, Germany"
+LOCATION = "Remote"
+```
+
 Change the date filter:
 
 ```python
